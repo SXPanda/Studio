@@ -4,7 +4,7 @@
 
 ###Performance
 * [LOD Mip Mapping](https://en.wikipedia.org/wiki/Mipmap) to reduce graphics complexity
-* Native canvas based (better performance)
+* Native canvas based
 
 ###Features
 * Drag-and-drop file upload
