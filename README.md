@@ -9,6 +9,7 @@
 
 ###Features
 * Drag-and-drop file upload
+* Shapes tool
 
 ###Concepts
 * Built in a modular way to be easily expandable and adaptable
