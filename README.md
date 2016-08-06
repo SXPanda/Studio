@@ -10,6 +10,7 @@
 ###Features
 * Drag-and-drop file upload
 * Shapes tool
+* Faded elements outside of bounds
 
 ###Concepts
 * Built in a modular way to be easily expandable and adaptable
